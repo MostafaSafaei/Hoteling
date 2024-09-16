@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Beautiful HotelRoom",
+        "isAvailable": true,
+        "maxcapacity": 6,
+        "address": "Khomein Goshe square Daegon Alley",
+        "price": 1500,
+        "image": "../images/welcome_hotel_darmstadt_musterziimmer_1.2560x1600.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Funny HotelRoom",
+        "isAvailable": true,
+        "maxcapacity": 7,
+        "address": "Khomein Goshe square Daegon Alley",
+        "price": 2000,
+        "image": "../images/leonardohotelbucharestcitycenter_room_comfortdouble2_2022_4000x2600_7e18f254bc75491965d36cc312e8111f_2048x1331_desktop_2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Good HotelRoom",
+        "isAvailable": true,
+        "maxcapacity": 3,
+        "address": "Khomein Goshe square Daegon Alley",
+        "price": 1300,
+        "image": "../images/welcome_hotel_darmstadt_deluxe_4_k.1600x0.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Beautiful HotelRoom",
+        "isAvailable": true,
+        "maxcapacity": 2,
+        "address": "Khomein Goshe square Daegon Alley",
+        "price": 1900,
+        "image": "../images/welcome_hotel_darmstadt_exe_5_k.1600x0.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Funny HotelRoom",
+        "isAvailable": true,
+        "maxcapacity": 5,
+        "address": "Khomein Goshe square Daegon Alley",
+        "price": 1400,
+        "image": "../images/welcome_hotel_darmstadt_jrsuite_1_k.1600x0.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Good HotelRoom",
+        "isAvailable": true,
+        "maxcapacity": 10,
+        "address": "Khomein Goshe square Daegon Alley",
+        "price": 1100,
+        "image": "../images/welcome_hotel_darmstadt_jrsuite_2_k.1600x0.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Beautiful HotelRoom",
+        "isAvailable": true,
+        "maxcapacity": 12,
+        "address": "Khomein Goshe square Daegon Alley",
+        "price": 2500,
+        "image": "../images/welcome_hotel_darmstadt_musterziimmer_1.2560x1600.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Funny HotelRoom",
+        "isAvailable": true,
+        "maxcapacity": 3,
+        "address": "Khomein Goshe square Daegon Alley",
+        "price": 2100,
+        "image": "../images/welcome_hotel_darmstadt_suite_4_k.1600x0.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Good HotelRoom",
+        "isAvailable": true,
+        "maxcapacity": 4,
+        "address": "Khomein Goshe square Daegon Alley",
+        "price": 1999,
+        "image": "../images/welcome_hotel_darmstadt_suite_5_k.1600x0.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Beautiful HotelRoom",
+        "isAvailable": true,
+        "maxcapacity": 2,
+        "address": "Khomein Goshe square Daegon Alley",
+        "price": 1561,
+        "image": "../images/welcome_hotel_darmstadt_super_4_k.1600x0.jpg"
+    }
+]
